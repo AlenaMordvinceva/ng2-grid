@@ -8,9 +8,6 @@ jspm_packages
 link-checker-results.txt
 npm-debug.*
 demo/**/*.js
-*.js
-*.js.map
-*.d.ts
 e2e/**/*.js
 e2e/**/*.js.map
 _test-output
